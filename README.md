@@ -1,4 +1,11 @@
-# umonitor
+# umonito
+
+Fork specific: 
+This fork makes python-umonitor work with >3.11 python . Add libxcb-randr0-dev from apt though.
+
+`sudo apt install libxcb-randr0-dev`
+
+
 Manage monitor configuration automatically
 
 The goal of this project is to implement *desktop environment independent* dynamic monitor
